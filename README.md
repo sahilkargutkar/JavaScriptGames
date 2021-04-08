@@ -6,10 +6,9 @@
 
 
 
-<h2>1) Age Calculator - Calculates your Age in Days </h2>
 
 
-<h2>2) Dog Generator - Generates Random Dogs </h2>
+<h2>1) Dog Generator - Generates Random Dogs </h2>
 
 
-<h2>3) Rock Paper Scissors - Play Rock Paper Scissors with Computer(bot)</h2>
+<h2>2) Rock Paper Scissors - Play Rock Paper Scissors with Computer(bot)</h2>
